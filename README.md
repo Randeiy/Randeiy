@@ -4,7 +4,8 @@ Hello, I'm Randy Ahmad Garcia Santosa!
 <br/>
 
 <p align="left">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+I am currently deepening my knowledge regarding Data Scientist and Multi-platform path.
+Connect with me on [Linkedin](https://www.linkedin.com/in/randy-ahmad-garcia-santosa-854b411b1).
 </p>
 
 <br/>
