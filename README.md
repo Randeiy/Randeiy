@@ -8,7 +8,7 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/randy-ahmad-garcia-san
 <p align="left">
 <a href="https://github.com/randeiy">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=randeiy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=famuh&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=randeiy&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <!--
