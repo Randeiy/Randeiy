@@ -1,5 +1,5 @@
 ### Hi there 👋
-**Randy Ahmad Garcia Santosa **  
+**Randy Ahmad Garcia Santosa**  
 Student of Informatics Engineering & Flutter Expert Learner <br>
 I am currently deepening my knowledge regarding multi-platform using the Dart and Flutter programming languages.
 
