@@ -5,7 +5,7 @@ Hello, I'm Randy Ahmad Garcia Santosa!
 
 <p align="left">
 I am currently deepening my knowledge regarding Data Scientist and Multi-platform path.
-Connect with me on [Linkedin](https://www.linkedin.com/in/randy-ahmad-garcia-santosa-854b411b1).
+Connect with me on [Linkedin](https://www.linkedin.com/in/randy-ahmad-garcia-santosa-854b411b1/).
 </p>
 
 <br/>
