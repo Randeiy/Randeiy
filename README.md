@@ -4,7 +4,7 @@ Hello, I'm Randy Ahmad Garcia Santosa!
 <br/>
 
 <p align="left">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F76F65&width=435&lines=Multiplatform+and+Backend+Developer"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=F76F65&width=435&lines=Multiplatform+and+Backend+Developer"></a>
 </p>
 
 <br/>
