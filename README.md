@@ -9,7 +9,12 @@ Welcome, I'm Randy Ahmad Garcia Santosa!
 
 <br/>
 
-Keep in touch with me on [Linkedin](https://www.linkedin.com/in/randy-ahmad-garcia-santosa-854b411b1/). 😉 
+<details>
+  <summary>🤝 Keep in touch </summary>
+<a href='https://www.linkedin.com/in/randy-ahmad-garcia-santosa-854b411b1/'><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href='https://instagram.com/randyahgar?igshid=YmMyMTA2M2Y=/'><img alt="Instagram" src="https://img.shields.io/badge/m_shiddiq_f%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<br />
+</details>
 
 <p align="left">
 <a href="https://github.com/randeiy">
@@ -71,16 +76,3 @@ Keep in touch with me on [Linkedin](https://www.linkedin.com/in/randy-ahmad-garc
 </p>
 
 <!--
-**Munawar193/Munawar193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
