@@ -1,27 +1,27 @@
-<h1 align="left">
-Welcome, I'm Randy Ahmad Garcia Santosa!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<br/>
+# Hi there, I'm Randy <img width="42px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" />
 
-<p align="left">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=F76F65&width=435&lines=Multiplatform+and+Backend+Developer"></a>
-</p>
-
+I'm a college student at Nusa Mandiri University majoring in informatics who's still trying to learn something new that will be needed by the industry now and in the future, im also have a mini project study case 
+ <a href="https://drive.google.com/file/d/1Oqtt-mpOX2zsljqwPfDZ_2AVmp8W34he/view?usp=share_link"><strong>UI UX</strong></a>, Multi Platform And Backend Based Programing. My repositories mostly certified by open source MIT License, so I hope it helps you in your projects.
 <br/>
 
   <summary>🤝 Keep in touch </summary>
 <a href='https://www.linkedin.com/in/randy-ahmad-garcia-santosa-854b411b1/'><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href='https://instagram.com/randyahgar?igshid=YmMyMTA2M2Y=/'><img alt="Instagram" src="https://img.shields.io/badge/randyahgar%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <br />
+<br />
 
-<p align="left">
-<a href="https://github.com/Randeiy">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Randeiy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Randeiy&layout=compact&langs_count=8&theme=algolia"/>
+<summary>🔥 My Github Status</summary>
+<p align=left>
+   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+     <img align="center" alt="Randeiy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Randeiy&count_private=true&show_icons=true&theme=gotham" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" alt="Randeiy's Language Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randeiy&theme=gotham&layout=compact&langs_count=8" />
+  </a>
+</p>
   
   
 </a>
-<br/>
 <br/>
 </p>
 
