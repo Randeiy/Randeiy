@@ -14,10 +14,14 @@ Welcome, I'm Randy Ahmad Garcia Santosa!
 <a href='https://instagram.com/randyahgar?igshid=YmMyMTA2M2Y=/'><img alt="Instagram" src="https://img.shields.io/badge/randyahgar%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <br />
 
-<p align="left">
-<a href="https://github.com/randeiy">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=randeiy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=randeiy&layout=compact&langs_count=8&theme=algolia"/>
+<p align=left>
+   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+     <img align="center" alt="Randeiy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Randeiy&count_private=true&show_icons=true&theme=gotham" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" alt="Randeiy's Language Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randeiy&theme=gotham&layout=compact&langs_count=8" />
+  </a>
+</p>
   
   
 </a>
