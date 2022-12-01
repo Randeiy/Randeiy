@@ -9,12 +9,10 @@ Welcome, I'm Randy Ahmad Garcia Santosa!
 
 <br/>
 
-<details>
   <summary>🤝 Keep in touch </summary>
 <a href='https://www.linkedin.com/in/randy-ahmad-garcia-santosa-854b411b1/'><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href='https://instagram.com/randyahgar?igshid=YmMyMTA2M2Y=/'><img alt="Instagram" src="https://img.shields.io/badge/randyahgar%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <br />
-</details>
 
 <p align="left">
 <a href="https://github.com/randeiy">
