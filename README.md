@@ -12,12 +12,10 @@ I'm a college student at Nusa Mandiri University majoring in informatics who's s
 
 <summary>🔥 My Github Status</summary>
 <p align=left>
-   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-     <img align="center" alt="Randeiy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Randeiy&count_private=true&show_icons=true&theme=gotham" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" alt="Randeiy's Language Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randeiy&theme=gotham&layout=compact&langs_count=8" />
-  </a>
+<p align="left">
+<a href="https://github.com/Randeiy">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Randeiy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Randeiy&layout=compact&langs_count=8&theme=algolia"/>
 </p>
   
   
