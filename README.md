@@ -1,12 +1,3 @@
-
-<br/>
-
-  <summary>🤝 Keep in touch </summary>
-<a href='https://www.linkedin.com/in/randy-ahmad-garcia-santosa-854b411b1/'><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href=''><img alt="Instagram" src="https://img.shields.io/badge/randyahgar%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<br />
-<br />
-
 <summary>🔥 My Github Status</summary>
 <p align=left>
 <p align="left">
@@ -15,6 +6,11 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Randeiy&layout=compact&langs_count=8&theme=algolia"/>
 </p>
   
+<summary>Social Media </summary>
+<a href='https://www.linkedin.com/in/randy-ahmad-garcia-santosa-854b411b1/'><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href=''><img alt="Instagram" src="https://img.shields.io/badge/randyahgar%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<br />
+<br />
   
 </a>
 <br/>
